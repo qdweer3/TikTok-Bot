@@ -1,5 +1,5 @@
 ## TikTok Bot
-A bot that generates followers, likes, views, shares and comment likes! (from zefoy / automatic process)
+A bot that generates followers, likes, views, shares and comment likes! (from zefoy / automatic process) ##linux##
 
 ## Requirements
 * You must have python installed (of course)
@@ -14,9 +14,8 @@ If you are not using windows, open the tiktok-bot.py file using any text editor,
 
 ## How to use
 1. Make sure you installed all the requirements
-2. If you are not using Windows follow the instruction above
-3. Run the tiktok-bot.py file and enjoy!
-
+2. Run the tiktok-bot.py file and enjoy!
+#thx to me edited to linux!
 ## Disclaimer
 * This tool is for educational purposes only
 * Do not use it for illegal work or without the consent of the tiktok account owner
