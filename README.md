@@ -9,8 +9,8 @@ A bot that generates followers, likes, views, shares and comment likes! (from ze
       python -m pip install selenium
       python -m pip install colorama
 
-## If you are not on Windows
-If you are not using windows, open the tiktok-bot.py file using any text editor, go down to line 170 and follow the instruction
+## If you are on windows use orginal script bro
+:) sub to sorymohiegerali for editing script
 
 ## How to use
 1. Make sure you installed all the requirements
